@@ -5,5 +5,3 @@
 - [使用说明、源码和问题反馈](https://github.com/vhukze/ViewTrim)
 - [Telegram 频道](https://t.me/vhukze_ViewTrim)
 - [Telegram 群组](https://t.me/ViewTrim)
-
-从旧包名 `com.vhukze.jxyn` 迁移时，请先在旧版导出规则。在 LSPosed 中停用旧模块，安装并启用新版，重新授权目标应用，再导入备份。
